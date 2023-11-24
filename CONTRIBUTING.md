@@ -1,4 +1,4 @@
-# Contributing to AutonomousAJ's Spotify API Project
+# Contributing to AutonomousAJ's Calendarific API Project
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 - Reporting a bug
@@ -17,8 +17,8 @@ We use GitHub to host code, to track issues and feature requests, as well as acc
 4. Make sure your code lints.
 5. Issue that pull request!
 
-## Report bugs using Github's [issues](https://github.com/apylePAD/autonomousAJ_spotifyAPI/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/apylePAD/autonomousAJ_spotifyAPI/issues/new); it's that easy!
+## Report bugs using Github's [issues](https://github.com/apylePAD/autonomousAJ_calendarificAPI/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/apylePAD/autonomousAJ_calendarificAPI/issues/new); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
 
